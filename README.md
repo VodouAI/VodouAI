@@ -2,9 +2,9 @@
 
 **Your AI harness** — local-first memory, skills, tools, and workflows you own and extend.
 
-Not another chatbot. Vodou sits **under** the AIs you already use and the agents you run: one durable brain on your machine, then arms (MCP tools), playbooks (skills), and scheduling — all **expandable by you**.
+Not another chatbot. Vodou sits **under** the places you already work — web AIs, IDEs, CLIs, desktop MCP clients, messaging, and its own Console — with one durable brain on your machine, then arms (MCP tools), playbooks (skills), and scheduling — all **expandable by you**.
 
-> Bring your models. Bring your servers. Bring your workflows. Vodou is the harness that holds them together — and follows you from ChatGPT to Claude to Cursor without starting from zero.
+> Bring your models. Bring your servers. Bring your workflows. Vodou is the harness that holds them together — and follows you from ChatGPT and Claude.ai to Cursor, Claude Code, and Codex without starting from zero.
 
 <p align="center">
   <a href="https://vodou.ai"><strong>vodou.ai</strong></a> ·
@@ -31,7 +31,7 @@ Not another chatbot. Vodou sits **under** the AIs you already use and the agents
 | **Skills** | Guided workflows with stopping points — expert playbooks, not one-shot prompts | Add, edit, import, and share skills; wire them to the tools you care about |
 | **MCP tools** | Real actions: mail, calendar, browser, tickets, files, APIs… | Connect **any** MCP server (stdio, HTTP, …). Your catalog, not a fixed vendor list |
 | **Scripts & jobs** | Longer-running work with status and control | Register your own scripts and automation |
-| **Surfaces** | Console, Bridge, IDE hooks, messaging, OpenAI-compatible API, MCP host | Attach the clients you use; scope what each one can see |
+| **Surfaces** | Bridge (web AIs), IDE/CLI hooks, Console, messaging, OpenAI-compatible API, MCP host | Attach the clients you use; scope what each one can see |
 | **Scheduler / loops** | Heartbeats, reminders, things Vodou notices for you | Turn lanes on/off; decide what runs and where it reports |
 
 Everything is meant to be **yours to customize**: which model answers, which tools are allowed, which vault an agent may search, which skill fires, what never leaves the machine.
@@ -66,7 +66,7 @@ Frontier APIs, or models that never leave your box. Conversation content and mem
 ## How it fits together
 
 ```text
-  ChatGPT · Claude · Cursor · Claude Code · Slack · Telegram · your MCP clients
+  Web AIs · IDEs · CLIs · Console · messaging · MCP clients
               │         Bridge · hooks · channels · MCP · API
               ▼
   ┌──────────────────────────────────────────────────────┐
