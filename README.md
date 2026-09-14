@@ -18,10 +18,7 @@ Not another chatbot. Vodou sits **under** the AIs you already use and the agents
   <img src="./assets/vodou-memory-arms-spokes.jpg" alt="Every AI has amnesia. Vodou remembers you — local memory at the center with skills, MCP tools, automations, workflows, and channels as arms you extend." width="720" />
 </p>
 
-<p align="center">
-  <a href="./assets/vodou-bridge-console-memory.mp4"><strong>▶ Play demo</strong></a>
-  — Bridge · Console · memory that follows you
-</p>
+https://github.com/VodouAI/VodouAI/releases/download/demo-assets/vodou-bridge-console-memory.mp4
 
 ---
 
