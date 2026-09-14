@@ -15,7 +15,7 @@ Not another chatbot. Vodou sits **under** the places you already work — web AI
 </p>
 
 <p align="center">
-  <img src="./assets/vodou-memory-arms-spokes.jpg" alt="Every AI has amnesia. Vodou remembers you — local memory at the center with skills, MCP tools, automations, workflows, and channels as arms you extend." width="720" />
+  <img src="./assets/vodou-memory-arms-spokes.jpg" alt="Every AI has amnesia. Vodou remembers you — local memory at the center with skills, MCP tools, automations, workflows, and channels as arms you extend." width="100%" />
 </p>
 
 <video src="https://github.com/user-attachments/assets/c0dce88e-285b-4a58-a065-1fd9c03a6654" controls="controls" autoplay muted style="max-width: 730px">
