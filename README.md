@@ -1,6 +1,6 @@
 # Vodou
 
-**An AI harness for the new age** — local-first memory, skills, tools, and workflows you own and extend.
+**Your AI harness** — local-first memory, skills, tools, and workflows you own and extend.
 
 Not another chatbot. Vodou sits **under** the AIs you already use and the agents you run: one durable brain on your machine, then arms (MCP tools), playbooks (skills), and scheduling — all **expandable by you**.
 
