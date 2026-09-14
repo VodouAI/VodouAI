@@ -99,7 +99,7 @@ curl -fsSL https://raw.githubusercontent.com/VodouAI/OS/main/install-vodou.sh | 
 irm https://raw.githubusercontent.com/VodouAI/OS/main/install-vodou.ps1 | iex
 ```
 
-Then finish the wizard at [app.vodou.ai](https://app.vodou.ai) (account licenses the engine — **memory stays local**), install **[Vodou Bridge](https://chromewebstore.google.com/detail/vodou-bridge/ehlanbbiaeelnimkakfffehoahimkjjf)**, pin a fact, open any supported AI, hit **Ctrl+B**.
+Then finish the wizard at [localhost:8765](http://localhost:8765) (account licenses the engine — **memory stays local**), install **[Vodou Bridge](https://chromewebstore.google.com/detail/vodou-bridge/ehlanbbiaeelnimkakfffehoahimkjjf)**, pin a fact, open any supported AI, hit **Ctrl+B**.
 
 Add an MCP server when you want new arms. Drop a skill when you want a playbook. Grow the harness — don’t wait for a single vendor’s memory feature.
 
